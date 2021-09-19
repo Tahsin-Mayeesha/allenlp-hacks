@@ -41,4 +41,9 @@ The proposed task, i.e. Multimedia Automatic Misogyny Identification (MAMI) cons
 
 - Google colab general, 1 GPU, 10k image dataset
 
+# Wandb link 
+
+- https://wandb.ai/khalidsaifullaah/wandb-lightning/overview?workspace=user-khalidsaifullaah
+-
+
 
