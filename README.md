@@ -26,7 +26,7 @@ The proposed task, i.e. Multimedia Automatic Misogyny Identification (MAMI) cons
 
 * We have tried to train two seperate models. First one is the model in this colab that uses [CLIP](https://openai.com/blog/clip/) by openai via huggingface transformers. We extract text and image embeddings from clip and train the multimodal task via a fusion model with pytorch lightning to avoid boilerplate code. Our training loss reduced from 0.69 on the binary classification problem to classify a meme as misogynist vs non-misogynist to 0.483 after 10 epochs. We found multimodal training extremely slow in practice despite increasing learning rate. 
 
-![](https://github.com/Tahsin-Mayeesha/allenlp-hacks/blob/main/new.png?raw=true)
+![](https://github.com/Tahsin-Mayeesha/allenlp-hacks/blob/main/new.drawio.png?raw=true)
 
 ![](https://github.com/Tahsin-Mayeesha/allenlp-hacks/blob/main/HatefulMemeDetector_Pipeline.png?raw=true)
 
