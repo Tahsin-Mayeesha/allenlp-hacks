@@ -2,6 +2,8 @@
 
 Colab link : https://colab.research.google.com/drive/1igiEjFR5G1kj2TFsLZQjaDfblbWtWiqn?usp=sharing
 
+Presentation link : https://drive.google.com/file/d/1Z7m-IQ6o_XlEGmrYV0KPjLdV1bKYRh9_/view 
+
 # Overview 
 
 This project is a submission to [AllenNLP Hackathon](https://allennlp-hackathon.apps.allenai.org/) with following team members - Tahsin Mayeesha, Khalid Saifullah and Atuhurra Jesse. 
